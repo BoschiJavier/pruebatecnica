@@ -1,2 +1,2 @@
 # pruebatecnica
-Prueba Tecnica DUX Software
+Prueba Técnica DUX Software
